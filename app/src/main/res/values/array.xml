@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="default_text_array">
+        <item >好的</item>
+        <item >一切都会好的</item>
+        <item >么么哒</item>
+        <item >今天就是今天</item>
+        <item >维护世界和平</item>
+        <item >大脸喜欢凤姐</item>
+        <item >凤姐喜欢大脸</item>
+        <item >大脸和凤姐明天结婚</item>
+    </string-array>
+
+</resources>
